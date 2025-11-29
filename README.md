@@ -37,6 +37,6 @@
 </br></br>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsui&show_icons=true&theme=midnight-purple) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehui1397)](https://solved.ac/sehui1397/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsui)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehui1397)](https://solved.ac/sehui1397/)
 
 </div>
